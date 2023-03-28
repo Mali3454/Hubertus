@@ -1,0 +1,18 @@
+import hero1 from './hero1.jpg'
+import hero2 from './hero2.jpg'
+import hero3 from './hero3.jpg'
+import hero4 from './hero4.jpg'
+import hero5 from './hero5.jpg'
+import room1 from './room1.jpg'
+import room2 from './room2.jpg'
+import room3 from './room3.jpg'
+import room4 from './room4.jpg'
+import room5 from './room5.jpg'
+import room6 from './room6.jpg'
+import room7 from './room7.jpg'
+import room8 from './room8.jpg'
+import room9 from './room9.jpg'
+import logo from './logo.png'
+import bg1 from './bg1.jpg'
+
+export { hero1, hero2, hero3, hero4, hero5, logo, room1, room2, room3, room4, room5, room6, room7, room8, room9, bg1 }
